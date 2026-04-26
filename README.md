@@ -98,15 +98,16 @@ This toolkit is intended for:
 If you use this codebase, the benchmark protocol, or any trained models, please cite:
 
 ```bibtex
-@misc{generateqa_vietnamese2025,
-  title={Generate Question and Answer Vietnamese Model},
-  author={Trần},
-  year={2025},
-  url={https://github.com/TATViet/Generate-Question-and-Answer-Vietnamese-Model}
+@inproceedings{tran2026comparative,
+  title     = {A Comparative Study of Seq2Seq Formulations for Vietnamese QAG on UIT-ViQuAD2.0},
+  author    = {Tran Anh, Trac Viet and Pham, Duc Dat and Huynh, Kha Tu and Le, Tan Duy},
+  booktitle = {Proceedings of the 3rd International Conference on Intelligent Systems, Blockchain, and Communication Technologies},
+  year      = {2026},
+  url       = {https://github.com/TATViet/Generate-Question-and-Answer-Vietnamese-Model}
 }
 ```
 
 ## 8.Contact
-- **Trần**  
+- **Trần Anh Trác Việt**  
 - Email: trananhtracviet20052011@gmail.com
 
